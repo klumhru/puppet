@@ -1,0 +1,227 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"out",
+				"cs_outpath"
+			],
+			[
+				"cxx",
+				"cxx_outpath"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 32,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/dev/nodespace/nodespace_client/nodespace_client/settings.json",
+		"/C/dev/nodespace/nodespace_client/.gitignore",
+		"/C/Games/falcon4bms/User/Config/hogni.key",
+		"/C/Games/falcon4bms/Bin/x86/config.SoftTHconfig",
+		"/C/Games/falcon4bms/Data/Art/ckptartn/F-16C-50/3dckpit.dat",
+		"/C/Games/falcon4bms/Data/Art/ckptartn/F-16C-52/3dckpit.dat",
+		"/C/Games/falcon4bms/Data/Art/ckptart/F-16C-50/3dckpit.dat",
+		"/C/Games/falcon4bms/Data/Art/ckptart/F-16C-52/3dckpit.dat",
+		"/C/Games/falcon4bms/User/Config/falcon bms.cfg",
+		"/C/Games/falcon4bms/User/Config/windowconfig.dat",
+		"/C/Users/HOGNI~1.AMY/AppData/Local/Temp/Rar$DRa0.068/readme_SoftTH2.txt",
+		"/C/dev/nodespace/extensions/raknet.py/raknet_structs_classes.py.i",
+		"/C/dev/nodespace/extensions/raknet.py/raknet_extends.py.i",
+		"/C/dev/raknet/Samples/ReplicaManager3/main.cpp",
+		"/C/Users/HOGNI~1.AMY/AppData/Local/Temp/Rar$DRa0.812/swigbullet-2.79-1/setup.py",
+		"/C/dev/nodespace/servernode/servernode_concepts.txt",
+		"/C/Users/HOGNI~1.AMY/AppData/Local/Temp/Rar$DRa0.970/swigbullet-2.79-1/swigbullet.__init__.i",
+		"/C/dev/nodespace/unity-project/.gitignore",
+		"/C/Users/HOGNI~1.AMY/AppData/Local/Temp/Rar$DRa0.205/swigbullet-2.79-1/setup.cfg",
+		"/C/dev/nodespace/raknet.wrap/Swig/SwigInterfaceFiles/RakNet.i",
+		"/C/dev/nodespace/raknet.wrap/Swig/SwigInterfaceFiles/RakNetCSharpIgnores.i",
+		"/C/dev/nodespace/raknet.wrap/Swig/SwigInterfaceFiles/RakNetCSharpSwigIncludes.i",
+		"/C/dev/nodespace/raknet.wrap/Swig/SwigInterfaceFiles/RakNetCSharpCPlusIncludes.i",
+		"/C/dev/nodespace/raknet.wrap/Swig/MakeSwig.bat",
+		"/C/dev/raknet/DependentExtensions/Swig/MakeSwig.bat",
+		"/C/dev/boost_1_51_0/project-config.jam",
+		"/C/dev/raknet/DependentExtensions/Swig/SwigInterfaceFiles/RakNetCSharpSwigIncludes.i",
+		"/C/dev/raknet/DependentExtensions/Swig/SwigInterfaceFiles/RakNetCSharpPreprocessor.i",
+		"/C/dev/nodespace/clientnode/NetworkClient.cs",
+		"/C/dev/raknet/DependentExtensions/Swig/SwigInterfaceFiles/RakNetCSharpCPlusIncludes.i",
+		"/C/dev/raknet/DependentExtensions/Swig/SwigInterfaceFiles/arrays_csharp.i",
+		"/C/dev/raknet/DependentExtensions/Swig/SwigInterfaceFiles/RakNet.i",
+		"/C/dev/raknet/DependentExtensions/Swig/SwigInterfaceFiles/RakNetStructsAndClasses.i",
+		"/C/dev/raknet/DependentExtensions/Swig/SwigInterfaceFiles/RakNetCSharpMethodModifiers.i",
+		"/C/dev/raknet/Source/ReplicaManager3.cpp",
+		"/C/dev/nodespace/raknet.net/MakeSwigRakNet.sh",
+		"/C/dev/nodespace/raknet.net/MakeSwigRakNet.bat",
+		"/C/dev/raknet/DependentExtensions/Swig/MakeSwigWithExtras.bat"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"viewlimit_pitch_down ",
+			"screen",
+			"fullscreen",
+			"fov",
+			"cs_outpath",
+			"rakstring",
+			"NotifyReplicaOfMessageDeliveryStatus",
+			"PrintStringInBitstream",
+			"QueryConstruction",
+			"topology",
+			"QueryConstruction",
+			"GetName"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"py_outpath"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 32,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								32
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

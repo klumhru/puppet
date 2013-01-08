@@ -1,0 +1,17 @@
+{
+	"settings": {
+		"tab_size": 4,
+		"translate_tabs_to_spaces": true
+	},
+	"folders":
+	[
+		{
+			"path": "modules",
+			"name": "Modules"
+		},
+        {
+            "patch": "kickstarts",
+            "name": "Kickstarts"
+        }
+	]
+}
